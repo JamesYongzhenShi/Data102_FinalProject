@@ -36,9 +36,3 @@ This project analyzes transportation data sourced from the U.S. Bureau of Transp
   - `GLM and NP.ipynb`: Notebook (for interactive analysis).
   - `Final_Report_Data102.pdf`: Detailed project report and discussion.
 
-### 3. Setup & Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/JamesYongzhenShi/Data102_FinalProject.git
-   cd Data102_FinalProject
